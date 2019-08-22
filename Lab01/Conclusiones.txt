@@ -16,6 +16,62 @@ Esperamos que instale(8)
 
 Una vez instalado lo conectamos a nuestro PostgreSQL de ODDO (9)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TAREA 1
+
+Gestión de Proyectos
+Odoo da seguimiento a sus proyectos planificando tareas a largo plazo estimando recursos y responsabilidades.
+
+CRM
+Permite dar seguimiento a las oportunidades e iniciativas de negocio que se le presenten. Puede personalizar su ciclo de venta, controlar estadísticas y predicciones, establecer campañas de mercadeo automáticas para mejorar el desempeño de sus ventas.
+
+Contabilidad y Finanzas
+Le permite registrar sus operaciones y gestionar toda su actividad financiera a través de poderosas herramientas que facilitan la integración de las áreas de CxC, CxP, Gastos y contabilidad. 
+
+Gestión de Compras
+Le permite crear y rastrear sus ordenes de compra, gestionar información de sus proveedores, controlar el proceso de recepción de productos y administrar sus costos.
+
+Gestión de Inventario
+Odoo implementa el concepto de método de "doble entrada" el cual permite gestionar complejos movimientos de una forma muy simple: rastrear stocks de proveedores, clientes, rastreo de afectaciones contables de movimientos, etc.
+
+Manufactura
+A través de diferentes aplicaciones de los módulos de manufactura le permite planificar y controlar la cadena de suministro. Permite personalizar los datos maestros, la planificación y gestión de ordenes de trabajo y y manufactura.
+
+Gestión de RH
+Le permite gestionar las personas que laboran en su organización, con los módulos de RH usted puede manejar gastos, asistencias, faltas, jornadas de reclutamiento, evaluaciones periódicas, etc.
+
+Página Web
+Mediante Odoo puede gestionar, crear y mostrar el contenido que tiene en su ERP de manera natural ya que todo esta integrado en la suite.
+
+E-Commerce
+Le permite montar de una manera sencilla su tienda en linea ya que los artículos que son mostrados en la web son tomados directamente de su catalogo de articulo y pueden mostrar sus existencias y listas de precios asignadas.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TAREA 2
+
+SAGE ERP X3 
+Este ERP integra todas las funcionalidades de la empresa en las áreas de finanzas, ventas, compras, CRM, producción, logística y comercio electrónico. Gracias a ello, permite una gestión consistente de los datos y un control global de la actividad a tiempo real. 
+El sistema ERP Sage X3, dispone de una de las arquitecturas más fáciles y rápidas de implantar. Además, no requiere recursos dedicados por lo que la empresa puede centrarse en sus actividades estratégicas. 
+Por otra parte, se puede acceder a todas las funcionalidades de Sage ERP X3 desde un simple navegador web que tenga acceso a internet. De esta forma, permite que la compañía se extienda de manera segura y controlada con todas las posibilidades del comercio electrónico.
+
+MICROSOFT DYNAMICS 
+Las soluciones de Microsoft Dynamics incluyen aplicaciones y servicios para minoristas, fabricantes, mayoristas y empresas de servicios en el ámbito local o internacional. Este sistema ERP ofrece grandes ventajas en el área de gestión financiera, gestión de relaciones con los clientes y en la cadena de suministro. 
+Las soluciones de Microsoft Dynamics ayudan a mantener el control de las finanzas y a administrarlas con un alto nivel de eficacia. También sirve para mantener un contacto cercano con los clientes y mejorar las acciones de marketing. Por último, puede dotar a toda la cadena de suministro de un flujo rápido y productivo.
+
+MICROSOFT DYNAMICS NAV 
+El software ERP Navision es una solución de gestión fácilmente personalizable y diseñada para responder a las necesidades específicas de las PYMES. Algunas de las funciones que incluye integradas están relacionadas con la gestión financiera, la colaboración en la cadena de suministro, el CRM y el comercio electrónico. 
+De esta forma, todos sus módulos están conectados entre sí para poder solucionar las necesidades de cada departamento de la empresa y mantener conectada toda la organización.
+
+SAP 
+El paquete del sistema ERP SAP, es uno de los más frecuentes y también está dirigido a las Pymes. Fue diseñado principalmente para mejorar la gestión de ventas, relaciones con los clientes, finanzas y operaciones de la compañía. 
+Gracias a sus funcionalidades, podrá obtener un mayor control sobre su pyme y controlar toda la información que se registre en el negocio en un sistema único y escalable.
+
+ORACLE 
+Por último, otro sistema ERP que encontramos es el ERP Oracle. Este paquete ERP consiste en una colección de más de 70 aplicaciones de negocios modulares, pre-integradas y específicas para ciertas industrias y diseñadas para una implantación rápida y una fácil administración.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 Conclusiones
 
 Vimos como instalar ODDO desde cero.
@@ -23,3 +79,5 @@ Instalamos PgAdmin 4, que se parece a phpAdmin.
 Conectamos el PgAdmin con los datos que se puso al instalar ODDO.
 Tenemos que recordar los usuario y contraseñas creadas ya que estos los usaremos en adelante.
 Se instalo ODDO en Linux lo cual usaremos mas adelante.
+Vimos diversos ERP como ODDO.
+Vimos los modulos que posee ODDO para nosotros.
