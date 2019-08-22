@@ -1,0 +1,25 @@
+Primero instalamos odo, buscamso el instalador en internet, lo descargamos e instalamos(1)
+
+Aceptamos toda la configuracion por defecto(2)
+
+Ponemos un puerto un hostbame y un usuario con contraseña que nos tenemos que recordar(3)
+
+Escojemos donde lo guardaremos (4)
+
+Esperamos que se termine de instalar(5)
+
+Nos abrira una pagina de oddo que es el localhost donde nos registraremos(6)
+
+Una vez echo esto descargamso un instalador para PgAdmin 4 y lo instalamos(7)
+
+Esperamos que instale(8)
+
+Una vez instalado lo conectamos a nuestro PostgreSQL de ODDO (9)
+
+Conclusiones
+
+Vimos como instalar ODDO desde cero.
+Instalamos PgAdmin 4, que se parece a phpAdmin.
+Conectamos el PgAdmin con los datos que se puso al instalar ODDO.
+Tenemos que recordar los usuario y contraseñas creadas ya que estos los usaremos en adelante.
+Se instalo ODDO en Linux lo cual usaremos mas adelante.
