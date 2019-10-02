@@ -2,44 +2,44 @@
 
 Primero descargamos las aplicaciones como Proyecto.
 
-![ODOO](./imgs/1.png)
+![ODOO](./imgs/1.PNG)
 
 Asimismo instalamos todas las aplicaciones solicitadas.
-![ODOO](imgs/2.png)
+![ODOO](imgs/2.PNG)
 
  
 
 Vamos viendo cada una de las nuevas secciones instaladas que se ven en la parte superior.
-![ODOO](imgs/3.png)
+![ODOO](imgs/3.PNG)
 
-![ODOO](imgs/4.png)
+![ODOO](imgs/4.PNG)
 
-![ODOO](imgs/5.png)
+![ODOO](imgs/5.PNG)
     
   
 Luego ejecutamos un comando para crear un modulo de prueba
-![ODOO](imgs/6.png)
+![ODOO](imgs/6.PNG)
 
 
  
 
 Si buscamos el modulo veremos como esta ahi para instalar
-![ODOO](imgs/7.png)
+![ODOO](imgs/7.PNG)
 
 
  
 
 Una vez instalada entramos y cambiamos un texto y vemos que se cambiara tanto aqui
-![ODOO](imgs/8.png)
+![ODOO](imgs/8.PNG)
 
  
  como aca
-![ODOO](imgs/9.png)
+![ODOO](imgs/9.PNG)
 
  
 
 Luego la desinstalamos 
-![ODOO](imgs/10.png)
+![ODOO](imgs/10.PNG)
 
  
 ## Conclusiones
