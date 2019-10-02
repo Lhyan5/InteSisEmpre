@@ -34,11 +34,11 @@ Vemos que ahora sale en la lista de clientes
 
 ![ODOO](imgs/12.PNG)
 
-Vamos a canales de ventas y creamos uno nuevo con sus mienbros de equipo
+Vamos a canales de ventas y creamos uno nuevo con sus mienbros de equipo.
 
 ![ODOO](imgs/13.PNG)
 
-Vemos que ahora sale en la lista
+Vemos que ahora sale en la lista.
 
 ![ODOO](imgs/14.PNG)
 
@@ -46,11 +46,11 @@ Vamos a los ajustes de CRM y activamos iniciativas.
 
 ![ODOO](imgs/15.PNG)
 
-Ahora vamos a iniciativas y creamos uno nuevo con su datos
+Ahora vamos a iniciativas y creamos uno nuevo con su datos.
 
 ![ODOO](imgs/16.PNG)
 
-Luego lo convertimos en oportunidad y asignamos un vendedor que es un cliente 
+Luego lo convertimos en oportunidad y asignamos un vendedor que es un cliente.
 
 ![ODOO](imgs/17.PNG)
 ![ODOO](imgs/18.PNG)
