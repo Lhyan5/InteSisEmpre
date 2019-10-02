@@ -2,7 +2,7 @@
 
 Primero descargamos las aplicaciones como Proyecto.
 
-![ODOO](imgs/1.png)
+![ODOO](./imgs/1.png)
 
 Asimismo instalamos todas las aplicaciones solicitadas.
 ![ODOO](imgs/2.png)
