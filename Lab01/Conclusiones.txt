@@ -1,12 +1,12 @@
 Primero instalamos odo, buscamso el instalador en internet, lo descargamos e instalamos(1)
 
-Aceptamos toda la configuracion por defecto(2)
+Aceptamos toda la configuracion por defecto(2).
 
 Ponemos un puerto un hostbame y un usuario con contraseña que nos tenemos que recordar(3)
 
-Escojemos donde lo guardaremos (4)
+Escojemos donde lo guardaremos (4).
 
-Esperamos que se termine de instalar(5)
+Esperamos que se termine de instalar(5).
 
 Nos abrira una pagina de oddo que es el localhost donde nos registraremos(6)
 
